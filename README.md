@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GAMEDEV-STB
-- 👀 I’m interested in Gaming
-- 🌱 I’m currently learning higher studies
-- 💞️ I’m looking to collaborate on app/game development, Arduino and pi coding and modification for games 
+- 👀 I’m a Python/C++ Programmer
+- 🌱 I’m currently pursuing Btech in BMS college of engineering, Bengaluru
+- 💞️ I’m looking to collaborate on Cyber security based project, Arduino and pi coding and modification for games 
 - 📫 How to reach me mail me @ skandatheja007@gmail.com
 
 <!---
